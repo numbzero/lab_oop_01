@@ -15,7 +15,7 @@ int	main(void)
 		switch (key)
 		{
 			case 'a':	GreatestCommonDivisor(); break;
-			case 'b':	NumberOfOrderForTheMinimumNumberFromDoublyLinkedList(); break;
+			case 'b':	NOOFTMNFDLL(); break;
 		}
 	}
 	while (key != 'e');

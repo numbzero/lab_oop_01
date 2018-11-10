@@ -20,7 +20,7 @@ void		GreatestCommonDivisor(void);
 int			FindGCD(int	*arr, int size);
 int			GCD(int a, int b);
 
-void		NumberOfOrderForTheMinimumNumberFromDoublyLinkedList(void);
+void		NOOFTMNFDLL(void);
 Node 		*NewNode(int data);
 void		InsertNode(Node **head_ref);
 void		FreeList(Node **head_ref);
